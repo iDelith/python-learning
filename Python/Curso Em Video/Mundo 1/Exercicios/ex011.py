@@ -31,3 +31,16 @@ print(f'''
      '''
 
       )
+
+
+# OUTPUT
+
+# Qual a altura de sua parede? 2
+# Qual o comprimento de sua parede?3
+
+# As dimensões de sua parede são: 2.00x3.00m. possuindo área de 6.0m²
+
+#     ==================================================
+#     Altura     Comprimento      Área        Quantidade
+#     2.00m      3.00m            6.00m²      3.00L
+#     ==================================================
