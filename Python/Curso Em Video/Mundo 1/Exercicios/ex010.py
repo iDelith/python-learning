@@ -13,3 +13,11 @@ dolar = (saldo / 3.27)
 print('\nAh, você tem R${:.2f}...'.format(saldo))
 print('Então com R${:.2f} você pode comprar até U${:.2f}'.format(saldo, dolar))
 print()
+
+
+# OUTPUT
+
+# Quantos reais você tem na carteira? R$20
+
+# Ah, você tem R$20.00...
+# Então com R$20.00 você pode comprar até U$6.12
